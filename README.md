@@ -1,6 +1,6 @@
-This is an analysis of bacterial data for several volunteers.
+This is an analysis of bacterial data from several volunteers.
 
 
 
 
-geeksforgeeks.com
+
